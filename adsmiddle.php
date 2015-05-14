@@ -11,7 +11,7 @@
   
   add_action( 'admin_menu', 'wp_addmidle' );
   function wp_addmidle() {
-    add_options_page( 'AddsMiddle', 'AddsMiddle', 'manage_options', 'wp_addmidle', 'wp_addmidle_options' );
+    add_options_page( 'AdsMiddle', 'AdsMiddle', 'manage_options', 'wp_addmidle', 'wp_addmidle_options' );
   }
   function wp_addmidle_options() {
 
