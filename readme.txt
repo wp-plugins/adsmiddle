@@ -1,4 +1,4 @@
-=== AdsMiddle ===
+﻿=== AdsMiddle ===
 Contributors: wjharil
 Donate link:  http://wjharil.com/blog/adsense-en-medio-de-post-wordpress/
 License: GPL2
@@ -29,6 +29,10 @@ This section describes how to install the plugin and get it working.
 2. Activar el plugin en 'Plugins' que está en el menu de WordPress
 3. Ir a la Configuración de AdsMiddle
 4. Ingresar los datos y Actualizar!
+
+== Screenshots ==
+
+1. screenshot-1.png
 
 == Changelog ==
 
