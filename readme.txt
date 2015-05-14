@@ -32,7 +32,7 @@ This section describes how to install the plugin and get it working.
 
 == Screenshots ==
 
-1. screenshot-3.jpg
+1. screenshot-4.png
 2. screenshot-2.png
 
 == Changelog ==
