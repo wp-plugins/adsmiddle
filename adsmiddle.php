@@ -1,7 +1,7 @@
 <?php
    /*
       Plugin Name: AdsMiddle
-      Plugin URI: http://wjharil.com/blog/adsense-en-medio-de-post-wordpress
+      Plugin URI: http://wjharil.com/blog/adsense-en-medio-de-post-wordpress/
       Description: Simple plugin para agregar adsense al medio del post.
       Version: 1.0
       Author: WJHARIL
