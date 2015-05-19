@@ -2,7 +2,7 @@
 Contributors: wjharil
 Donate link:  http://wjharil.com/blog/anuncios-en-medio-post-wordpress/
 License: GPL2
-Tags: adsense, adsense middle post
+Tags: adsense, adsense middle post, anuncios, publicidad, post, widget
 Requires at least: 3.1
 Tested up to: 4.1
 Stable tag: 2.2.3
