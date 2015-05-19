@@ -1,6 +1,6 @@
 ﻿=== AdsMiddle ===
 Contributors: wjharil
-Donate link:  http://wjharil.com/blog/adsense-en-medio-de-post-wordpress/
+Donate link:  http://wjharil.com/blog/anuncios-en-medio-post-wordpress/
 License: GPL2
 Tags: adsense, adsense middle post
 Requires at least: 3.1
@@ -15,7 +15,7 @@ Agrega fácilmente publicidad en medio de tus entradas de wordpress o en cada se
 
 Basta con instalar el plugin y siga las instrucciones en la página configuración.
 
-* [AdsMiddle](http://wjharil.com/blog/adsense-en-medio-de-post-wordpress/) Plugin homepage.
+* [AdsMiddle](http://wjharil.com/blog/anuncios-en-medio-post-wordpress/) Plugin homepage.
 
 Agrega fácilmente publicidad en medio de tus entradas de wordpress o en cada sección de parrafo [adsmiddle]
 
